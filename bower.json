@@ -1,0 +1,18 @@
+{
+  "name": "badb_simple",
+  "description": "Simple app with badb framework",
+  "main": "index.js",
+  "authors": [
+    "Albert Cuartiella <cuarti1992@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
